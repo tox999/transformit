@@ -7,6 +7,7 @@ import json
 
 
 # config
+# https://www.dnd5eapi.co/docs/#get-/api/-endpoint-
 SECRETS_FILE_PATH = "./secrets.json"
 DND5_API_HOST = "https://www.dnd5eapi.co/"
 COMMANDS ={
