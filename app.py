@@ -5,8 +5,10 @@ from urllib.parse import urlparse
 import requests
 import json
 
-
-# config
+# change 3
+# change 2
+# change 1
+# Config
 # https://www.dnd5eapi.co/docs/#get-/api/-endpoint-
 SECRETS_FILE_PATH = "./secrets.json"
 DND5_API_HOST = "https://www.dnd5eapi.co/"
